@@ -1,38 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.8.8">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1181" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
-        <mxCell id="1" style=";html=1;" parent="0" visible="0" />
-        <mxCell id="6a7d8f32e03d9370-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="6a7d8f32e03d9370-12" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenapp_server;fontSize=14;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1520" y="840" width="76" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-15" value="Web Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fontSize=14;labelPosition=center;align=center;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-15" value="Web Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fontSize=14;labelPosition=center;align=center;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1510" y="670" width="71" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;shape=mxgraph.citrix.chassis;fontSize=14;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;shape=mxgraph.citrix.chassis;fontSize=14;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1520" y="390" width="137.5" height="177.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="Структурная схема" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-62" value="Структурная схема" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-1" value="АРМ оператора КУ&#xa;78С21" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="100" height="70" as="geometry" />
+        <mxCell id="lgSXZt9PNsylj2CV4tFV-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-2" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="824" y="85" width="80" height="64" as="geometry" />
+        <mxCell id="lgSXZt9PNsylj2CV4tFV-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-3" value="АРМ&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;оператора КУ&lt;/span&gt;&lt;div&gt;&lt;div&gt;78С11&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="80" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-4" value="АРМ&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;оператора КУ&lt;/span&gt;&lt;div&gt;&lt;div&gt;22С01&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="399" y="80" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-5" value="АРМ&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;оператора КУ&lt;/span&gt;&lt;div&gt;&lt;div&gt;78С02&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lgSXZt9PNsylj2CV4tFV-6" value="АРМ&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;САУ ГПА&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;41С11&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="721" y="80" width="100" height="71" as="geometry" />
+        <mxCell id="lgSXZt9PNsylj2CV4tFV-13" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lgSXZt9PNsylj2CV4tFV-10" value="Фон" parent="0" />
       </root>
