@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="412" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="lgSXZt9PNsylj2CV4tFV-10" value="Фон" parent="0" />
@@ -15,11 +15,11 @@
         <mxCell id="I8SQHlroj80ONlkwTboR-45" value="&lt;font&gt;Пульт управления&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#001933;strokeColor=#99CCFF;align=right;verticalAlign=top;fontColor=#F5F5F5;labelBorderColor=none;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;fontStyle=1" parent="I8SQHlroj80ONlkwTboR-43" vertex="1">
           <mxGeometry x="80" y="110" width="1140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="I8SQHlroj80ONlkwTboR-65" value="Серверная" style="" parent="0" visible="0" />
+        <mxCell id="I8SQHlroj80ONlkwTboR-65" value="Серверная" style="" parent="0" />
         <mxCell id="I8SQHlroj80ONlkwTboR-66" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#f5f5f5&quot;&gt;Серверная&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99CCFF;fontColor=#99CCFF;fillColor=#1A1A1A;dashed=1;strokeWidth=2;verticalAlign=top;fontSize=14;fontStyle=1;align=right;" parent="I8SQHlroj80ONlkwTboR-65" vertex="1">
           <mxGeometry x="70" y="340" width="1160" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="I8SQHlroj80ONlkwTboR-68" value="УКС" style="" parent="0" visible="0" />
+        <mxCell id="I8SQHlroj80ONlkwTboR-68" value="УКС" style="" parent="0" />
         <mxCell id="I8SQHlroj80ONlkwTboR-69" value="УКС&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Существующий&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;шкаф &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;СОДУ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;KIT 0412)&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#001933;strokeColor=#99CCFF;align=right;verticalAlign=top;fontColor=#F5F5F5;labelBorderColor=none;strokeWidth=1;fontSize=14;fontFamily=Times New Roman;fontStyle=1" parent="I8SQHlroj80ONlkwTboR-68" vertex="1">
           <mxGeometry x="80" y="370" width="1140" height="299" as="geometry" />
         </mxCell>
