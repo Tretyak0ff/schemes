@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1275" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="lgSXZt9PNsylj2CV4tFV-10" value="Фон" parent="0" />
@@ -841,8 +841,8 @@
             <mxPoint x="190" y="490" as="sourcePoint" />
             <mxPoint x="120" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="400" />
-              <mxPoint x="100" y="400" />
+              <mxPoint x="190" y="410" />
+              <mxPoint x="100" y="410" />
               <mxPoint x="100" y="280" />
               <mxPoint x="100" y="260" />
               <mxPoint x="100" y="200" />
@@ -909,8 +909,8 @@
             <mxPoint x="430" y="500" as="sourcePoint" />
             <mxPoint x="120" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="390" />
-              <mxPoint x="110" y="390" />
+              <mxPoint x="430" y="400" />
+              <mxPoint x="110" y="400" />
               <mxPoint x="110" y="270" />
               <mxPoint x="110" y="210" />
             </Array>
@@ -921,8 +921,8 @@
             <mxPoint x="230" y="310" as="sourcePoint" />
             <mxPoint x="240" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="380" />
-              <mxPoint x="230" y="380" />
+              <mxPoint x="460" y="390" />
+              <mxPoint x="230" y="390" />
               <mxPoint x="230" y="270" />
               <mxPoint x="230" y="210" />
             </Array>
@@ -993,8 +993,8 @@
             <mxPoint x="350" y="310" as="sourcePoint" />
             <mxPoint x="360" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="490" y="370" />
-              <mxPoint x="350" y="370" />
+              <mxPoint x="490" y="380" />
+              <mxPoint x="350" y="380" />
               <mxPoint x="350" y="270" />
               <mxPoint x="350" y="210" />
             </Array>
@@ -1005,8 +1005,8 @@
             <mxPoint x="470" y="310" as="sourcePoint" />
             <mxPoint x="480" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="360" />
-              <mxPoint x="470" y="360" />
+              <mxPoint x="520" y="370" />
+              <mxPoint x="470" y="370" />
               <mxPoint x="470" y="270" />
               <mxPoint x="470" y="210" />
             </Array>
@@ -1017,7 +1017,7 @@
             <mxPoint x="550" y="480" as="sourcePoint" />
             <mxPoint x="600" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="360" />
+              <mxPoint x="550" y="370" />
               <mxPoint x="590" y="360" />
               <mxPoint x="590" y="210" />
             </Array>
@@ -1033,7 +1033,8 @@
               <mxPoint x="890" y="310" />
               <mxPoint x="380" y="310" />
               <mxPoint x="380" y="400" />
-              <mxPoint x="370" y="400" />
+              <mxPoint x="380" y="410" />
+              <mxPoint x="370" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1226,8 +1227,8 @@
             <Array as="points">
               <mxPoint x="880" y="320" />
               <mxPoint x="410" y="320" />
-              <mxPoint x="410" y="410" />
-              <mxPoint x="400" y="410" />
+              <mxPoint x="410" y="420" />
+              <mxPoint x="400" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
