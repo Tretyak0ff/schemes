@@ -1614,7 +1614,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hR_VE508Jyyfn8AEBB_C-517" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;DCS&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;(Yokogawa)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#f5f5f5;verticalAlign=bottom;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="hR_VE508Jyyfn8AEBB_C-305">
-          <mxGeometry x="947" y="910" width="140" height="30" as="geometry" />
+          <mxGeometry x="950" y="920" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hR_VE508Jyyfn8AEBB_C-535" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#99CCFF;" edge="1" parent="hR_VE508Jyyfn8AEBB_C-305">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
