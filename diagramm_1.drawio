@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1775" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="1" shadow="0">
+    <mxGraphModel dx="1583" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="1" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="lgSXZt9PNsylj2CV4tFV-10" value="Фон" parent="0" />
@@ -866,8 +866,8 @@
         <mxCell id="I8SQHlroj80ONlkwTboR-465" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#f5f5f5&quot;&gt;Аппаратная поз. 14&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99CCFF;fontColor=#99CCFF;fillColor=#1A1A1A;dashed=1;strokeWidth=2;verticalAlign=top;fontSize=14;fontStyle=1;align=right;" parent="I8SQHlroj80ONlkwTboR-464" vertex="1">
           <mxGeometry x="70" y="860" width="770" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="zlj9abq6tevq2dcLxJSJ-17" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Коммутатор 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#f5f5f5;verticalAlign=middle;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="I8SQHlroj80ONlkwTboR-464">
-          <mxGeometry x="120" y="1020" width="110" height="40" as="geometry" />
+        <mxCell id="zlj9abq6tevq2dcLxJSJ-133" value="&amp;nbsp; &amp;nbsp; Stack 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#99CCFF;align=left;fontColor=#FFFFFF;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="I8SQHlroj80ONlkwTboR-464">
+          <mxGeometry x="120" y="940" width="480" height="120" as="geometry" />
         </mxCell>
         <mxCell id="I8SQHlroj80ONlkwTboR-133" value="КУ" style="" parent="0" />
         <mxCell id="Y5XMjfLHCa17UxXTTV3v-51" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#f5f5f5&quot;&gt;КУ 78С21&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#f5f5f5&quot;&gt;КИПиА и ИМ&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99CCFF;fontColor=#99CCFF;fillColor=#1A1A1A;strokeWidth=2;verticalAlign=middle;fontSize=14;fontStyle=1;align=center;" parent="I8SQHlroj80ONlkwTboR-133" vertex="1">
@@ -2083,14 +2083,11 @@
             <mxPoint x="449.88" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zlj9abq6tevq2dcLxJSJ-16" value="&amp;nbsp; &amp;nbsp; Stack 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#99CCFF;align=left;fontColor=#FFFFFF;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="I8SQHlroj80ONlkwTboR-240">
-          <mxGeometry x="120" y="940" width="470" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-15" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" vertex="1" parent="I8SQHlroj80ONlkwTboR-240">
           <mxGeometry x="350" y="720" width="109" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Коммутатор 2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#f5f5f5;verticalAlign=middle;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="I8SQHlroj80ONlkwTboR-240">
-          <mxGeometry x="480" y="1020" width="110" height="40" as="geometry" />
+          <mxGeometry x="490" y="1020" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-30" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF9999;fontColor=#1A1A1A;strokeWidth=2;" edge="1" parent="I8SQHlroj80ONlkwTboR-240">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2140,7 +2137,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-42" value="" style="group" vertex="1" connectable="0" parent="I8SQHlroj80ONlkwTboR-240">
-          <mxGeometry x="180.5" y="990" width="350" height="30" as="geometry" />
+          <mxGeometry x="180.5" y="990" width="429.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-43" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#99CCFF;fontColor=#1A1A1A;strokeWidth=5;" edge="1" parent="zlj9abq6tevq2dcLxJSJ-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2159,6 +2156,9 @@
         </mxCell>
         <mxCell id="zlj9abq6tevq2dcLxJSJ-46" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="I8SQHlroj80ONlkwTboR-240">
           <mxGeometry x="190" y="990" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zlj9abq6tevq2dcLxJSJ-134" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Коммутатор 1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontColor=#f5f5f5;verticalAlign=middle;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="I8SQHlroj80ONlkwTboR-240">
+          <mxGeometry x="120" y="1020" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hR_VE508Jyyfn8AEBB_C-698" value="Легенда" parent="0" />
         <mxCell id="n_ipSfkXjyLHiTMW170N-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#99CCFF;fontColor=#99CCFF;fillColor=#1A1A1A;strokeWidth=1;verticalAlign=top;fontSize=14;fontStyle=1;align=right;" parent="hR_VE508Jyyfn8AEBB_C-698" vertex="1">
