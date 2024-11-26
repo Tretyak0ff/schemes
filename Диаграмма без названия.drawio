@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.9.1">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="568" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#000000" math="1" shadow="0">
+    <mxGraphModel dx="1183" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="1" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="lgSXZt9PNsylj2CV4tFV-10" value="Фон" parent="0" />
@@ -617,6 +617,9 @@
             <mxPoint x="13" y="27" as="sourcePoint" />
             <mxPoint x="27" y="13" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n_ipSfkXjyLHiTMW170N-37" value="&amp;nbsp; &amp;nbsp; Stack&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#99CCFF;align=left;fontColor=#FFFFFF;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="I8SQHlroj80ONlkwTboR-71">
+          <mxGeometry x="100" y="510" width="560" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1" value="АРМ" style=";html=1;" parent="0" />
         <mxCell id="hR_VE508Jyyfn8AEBB_C-1" value="" style="verticalAlign=bottom;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;fillColor=#99CCFF;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#F5F5F5;fontSize=14;" parent="1" vertex="1">
