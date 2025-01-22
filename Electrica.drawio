@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="2049" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1363,20 +1363,20 @@
         </mxCell>
         <mxCell id="yL75VMJgjeJ8nHu1CUcP-40" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="5820" y="5600" as="sourcePoint" />
-            <mxPoint x="6220" y="5600" as="targetPoint" />
+            <mxPoint x="5820" y="5640" as="sourcePoint" />
+            <mxPoint x="6220" y="5640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yL75VMJgjeJ8nHu1CUcP-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="6220" y="5600" as="sourcePoint" />
-            <mxPoint x="6620" y="5600" as="targetPoint" />
+            <mxPoint x="6220" y="5640" as="sourcePoint" />
+            <mxPoint x="6620" y="5640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yL75VMJgjeJ8nHu1CUcP-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="6630" y="5600" as="sourcePoint" />
-            <mxPoint x="7030" y="5600" as="targetPoint" />
+            <mxPoint x="6630" y="5640" as="sourcePoint" />
+            <mxPoint x="7030" y="5640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yL75VMJgjeJ8nHu1CUcP-43" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -1879,7 +1879,7 @@
         </mxCell>
         <mxCell id="yL75VMJgjeJ8nHu1CUcP-155" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="7040" y="5570" as="sourcePoint" />
+            <mxPoint x="7040" y="5620" as="sourcePoint" />
             <mxPoint x="7040" y="5970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1887,6 +1887,35 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="7040" y="5975" as="sourcePoint" />
             <mxPoint x="7040" y="6375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aGTMFHvaLVZMPlgZo5Z-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7730" y="6360" as="sourcePoint" />
+            <mxPoint x="6300" y="5580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7730" y="5580" />
+              <mxPoint x="6300" y="5580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aGTMFHvaLVZMPlgZo5Z-4" value="Свет точка подключения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8aGTMFHvaLVZMPlgZo5Z-2">
+          <mxGeometry x="0.9808" y="3" relative="1" as="geometry">
+            <mxPoint x="49" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aGTMFHvaLVZMPlgZo5Z-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="7700" y="6360" as="sourcePoint" />
+            <mxPoint x="6300" y="5610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="7700" y="5610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8aGTMFHvaLVZMPlgZo5Z-6" value="Свет точка подключения" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8aGTMFHvaLVZMPlgZo5Z-5">
+          <mxGeometry x="0.9808" y="3" relative="1" as="geometry">
+            <mxPoint x="49" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
