@@ -41,7 +41,7 @@
           <mxGeometry x="-24700" y="17466.58" width="12990" height="393.7" as="geometry" />
         </mxCell>
         <mxCell id="rS3Z0O71te5HmSwH6oeq-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-22540" y="23180" width="19603.58" height="393.7" as="geometry" />
+          <mxGeometry x="-24710" y="23210.6" width="19603.58" height="393.7" as="geometry" />
         </mxCell>
         <mxCell id="rS3Z0O71te5HmSwH6oeq-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="1833" y="15534" width="393.7" height="7660" as="geometry" />
@@ -73,49 +73,49 @@
         <mxCell id="rS3Z0O71te5HmSwH6oeq-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-8639.6" y="11793.36" width="3149.6" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-29" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-29" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-24699.7" y="17860.82" width="7279.7" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-31" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-31" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-13481.35" y="17859.82" width="4531.35" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-32" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-32" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-17420" y="17860.82" width="3940" height="196.85" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-33" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-33" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-24698.05" y="22814.9" width="7818.05" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-34" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 30&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-34" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 30&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-12972.039999999999" y="22027.899999999998" width="7475.74" height="1181.1" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-35" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-35" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-16890" y="23011.75" width="3940" height="196.85" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-36" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-36" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-24698.05" y="18254.52" width="196.85" height="4565.49" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-39" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-39" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-5096.42" y="22186.3" width="4556.42" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-41" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-41" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-5890" y="15420" width="393.7" height="3775.9" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-45" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-45" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-5490" y="8328.5" width="3790" height="196.85" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-46" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-46" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-1906.45" y="-730" width="196.85" height="9070.01" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-47" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 8&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-47" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 8&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-8953.8" y="12187" width="314.96" height="6063" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-48" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-48" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-8639.6" y="-1120" width="196.85" height="12920" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-49" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-8442.75" y="-1120" width="6732.75" height="393.7" as="geometry" />
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-49" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10 см&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="-8441.75" y="-1120" width="6732.75" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="rS3Z0O71te5HmSwH6oeq-50" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
+        <mxCell id="rS3Z0O71te5HmSwH6oeq-50" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 5&lt;/font&gt;&lt;span style=&quot;font-size: 200px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-5693.15" y="8330" width="196.85" height="3459.99" as="geometry" />
         </mxCell>
         <mxCell id="Ubs1RA7WbtTczdkRQt8K-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=39.37;exitX=0.803;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;" parent="1" edge="1">
@@ -231,9 +231,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ubs1RA7WbtTczdkRQt8K-5" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;10&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2830" y="10970" width="393.7" height="10640.01" as="geometry" />
-        </mxCell>
         <mxCell id="Tqb1bNyr6mbq76F_5HTB-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=39.37;fillColor=#fa6800;strokeColor=#C73500;exitX=-0.004;exitY=0.062;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryX=0.059;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rS3Z0O71te5HmSwH6oeq-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-5684.2752" y="11791.785200000002" as="sourcePoint" />
@@ -300,10 +297,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tqb1bNyr6mbq76F_5HTB-50" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="Tqb1bNyr6mbq76F_5HTB-50" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-5096" y="12078" width="4556.42" height="393.7" as="geometry" />
         </mxCell>
-        <mxCell id="Tqb1bNyr6mbq76F_5HTB-51" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;" vertex="1" parent="1">
+        <mxCell id="Tqb1bNyr6mbq76F_5HTB-51" value="&lt;font style=&quot;font-size: 200px;&quot;&gt;Отступ 10&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 200px;&quot;&gt;&amp;nbsp;см&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=north;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-5085.92" y="15130" width="4556.42" height="393.7" as="geometry" />
         </mxCell>
         <mxCell id="Tqb1bNyr6mbq76F_5HTB-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="Tqb1bNyr6mbq76F_5HTB-53">
